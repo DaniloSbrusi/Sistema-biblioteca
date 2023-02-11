@@ -7,6 +7,7 @@ Busca em banco de dados para uma biblioteca
 - Spring Data JPA
 - Maven
 - REST
+- Lombok
 - H2 Database
 - EasyAutocomplete
 - Bootstrap
