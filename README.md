@@ -1,5 +1,5 @@
 # Sistema biblioteca
-Sistema de busca em banco de dados para uma bibliteca
+Busca em banco de dados para uma biblioteca
 
 ---
 
@@ -8,5 +8,6 @@ Sistema de busca em banco de dados para uma bibliteca
 - Maven
 - REST
 - H2 Database
+- EasyAutocomplete
 - Bootstrap
 
